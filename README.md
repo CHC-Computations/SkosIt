@@ -2,7 +2,7 @@
 
 ## SkosIt: Data Transformation and Enrichment Pipeline
 
-![alt text](https://github.com/CHC-Computations/SkosIt/blob/main/skosit.svg?raw=true)
+![alt text](https://github.com/CHC-Computations/SkosIt/blob/main/skosit1.png?raw=true)
 
 ### Overview
 SkosIt is a specialized tool that aims to streamline the transformation and enrichment process of bibliographic data. The pipeline begins with raw tabular data in the [MARC21](https://www.loc.gov/marc/bibliographic/) bibliographic data format, augments this data using multiple external services, and finally converts it to SKOS-compliant RDF triples using Python's [rdflib](https://rdflib.readthedocs.io/en/stable/) library.
